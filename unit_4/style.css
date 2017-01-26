@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Hind:700|Pacifico|Slabo+27px');
+
+body {
+	color: #fff;
+	background: url(../images/calicohills.jpg);	
+	background-size: cover;
+}
+
+h1 {
+    font-family: 'Hind', sans-serif;
+	color: #7789a5;
+	text-align: center;
+	font-weight: 700;
+	font-size: 80px;
+	padding-top: 20px;
+    padding-left: 30px;
+}
+
+#slogan{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 5px;
+    color: #f18a45;
+    font-style: italic;  
+}
+
+#separate{
+    text-align:center; 
+    margin-top: 10px;
+    max-width: 400px;
+}
+
+h2 {
+    font-family: 'Slabo 27px', serif;
+    padding-left:200px;
+    padding-right: 200px;
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+    color: #7789a5;
+}
+
+h3 {    
+    font-family: 'Hind', sans-serif;
+    color: #fff;
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+a {
+    font-family: 'Hind', sans-serif;
+    color: #7789a5;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+}
+
+span {  
+    margin-left: 30px;
+    color: #7789a5;
+}
+
+ul {
+    font-family: 'Slabo 27px', serif;
+    list-style-type: none;
+    margin-top: 5px;
+    line-height: 1.5em;
+    margin-left: 2px;
+    color: #f18a45;  
+}
+
+
+
+
+
