@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Fira:700|Pacifico|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+header {
+	background-color: #fff;
+    background: url(../images/whimsy.jpg);
+	border: 0px #fff solid;	
+	padding: 10px 5px 2px 10px;
+}
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+	color: #56585b;
+	text-align: center;
+	font-weight: 700;
+	font-size: 70px;
+	margin: 2px;
+    padding: 0px;
+}
+
+#slogan{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #f18a45;
+    font-style: italic; 
+    font-size: 70px;
+    margin: 15px;
+    margin-top: 0px;
+    padding-top: 0px;
+    display: block;
+}
+
+nav {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 1em;
+    text-align: left;
+    border: 0px #fff solid; 
+}
+
+a {
+    color: #56585b;
+    padding: 2px 5px;
+    text-decoration: none;
+
+}
+
+article {
+	background-color: #302416;
+	border: 0px #302416 solid;	
+	padding: 0px 20px;
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    color: #fff;
+    font-weight: 300;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px #FFC675 solid;	
+	padding: 20px;
+}
+
+
+h3 {    
+    font-family: 'Fira Sans', sans-serif;
+    color: #f18a45;
+    font-size: 30px;
+    margin: 2px 2px 2px 0px;
+    padding: 8px 2px;
+
+}
+
+#under {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+#offerings {
+    list-style: none;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    color: #fff;
+    margin: 2px 2px 2px 0px;
+    padding: 8px 2px;
+}
+
+#two_column {
+    background-color: #302416;
+    padding: 0px;
+}
+
+#left {
+    background-color: #302416;
+    padding: 0px 20px 20px 30px;
+    float: left;
+    width: 60%;
+    border: 0px #302416 solid;
+}
+
+#right {
+    background-color: #302416;
+    padding: 0px 30px 20px 20px;
+    float: right;
+    width: 23%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+footer {
+	background-color: #FF957E;	
+	padding: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+
+div / section {
+	background-color: #FFE2B8;
+	border: 1px black solid;	
+	padding: 20px;
+}
+
+img {
+	height: 300px;
+	width: 764px;
+    margin: auto;
+    display: block;
+}
