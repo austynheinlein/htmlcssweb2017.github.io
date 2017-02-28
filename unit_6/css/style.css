@@ -2,20 +2,17 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
 header {
+
 	background-color: #fff;
-    background: url(../images/whimsy.jpg);
 	border: 0px #fff solid;	
-	padding: 10px 5px 2px 10px;
+	padding: 2.5em;
 }
 
-h1 {
-    font-family: 'Fira Sans', sans-serif;
-	color: #56585b;
-	text-align: center;
-	font-weight: 700;
-	font-size: 70px;
-	margin: 2px;
-    padding: 0px;
+
+.logo {
+    height: 150px;
+    width: 150px;
+    float: left; 
 }
 
 #slogan{
@@ -33,7 +30,7 @@ h1 {
 nav {
     font-family: 'Fira Sans', sans-serif;
     margin: 1em;
-    text-align: left;
+    text-align: center;
     border: 0px #fff solid; 
 }
 
@@ -53,7 +50,7 @@ article {
 h2 {
     font-family: 'EB Garamond', serif;
     font-size: 30px;
-    color: #fff;
+    color: #302416;
     font-weight: 300;
 }
 
@@ -89,12 +86,12 @@ h3 {
 }
 
 #two_column {
-    background-color: #302416;
+    background-color: #fff;
     padding: 0px;
 }
 
 #left {
-    background-color: #302416;
+    background-color: #fff;
     padding: 0px 20px 20px 30px;
     float: left;
     width: 60%;
@@ -102,7 +99,7 @@ h3 {
 }
 
 #right {
-    background-color: #302416;
+    background-color: #fff;
     padding: 0px 30px 20px 20px;
     float: right;
     width: 23%;
@@ -131,7 +128,7 @@ div / section {
 	padding: 20px;
 }
 
-img {
+.one {
 	height: 300px;
 	width: 764px;
     margin: auto;
